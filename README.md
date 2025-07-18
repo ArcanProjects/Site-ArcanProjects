@@ -13,7 +13,7 @@
       <a href="#" title="https://github.com/matheusfrdev">
         <img src="https://avatars.githubusercontent.com/u/122581322?v=4" width="100px;" alt="Foto Matheus"/><br>
         <sub>
-          <b>Matheus 🍀</b>
+          <b>Matheus</b>
         </sub>
       </a>
     </td>
