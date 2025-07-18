@@ -17,6 +17,15 @@
         </sub>
       </a>
     </td>
+        </td>
+    <td align="center">
+      <a href="#" title="https://github.com/EnaelRocha">
+        <img src="https://avatars.githubusercontent.com/u/62434300?v=4" width="100px;" alt="Foto Enael"/><br>
+        <sub>
+          <b>Enael</b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="#" title="https://github.com/zNaflyy">
         <img src="https://avatars.githubusercontent.com/u/82005263?v=4" width="100px;" alt="Foto Naflyy"/><br>
@@ -24,6 +33,6 @@
           <b>zNaflyyy</b>
         </sub>
       </a>
-    </td>
   </tr>
 </table>
+
